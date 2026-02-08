@@ -15,6 +15,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Confirm cross-functional engagement plan (see [octoacme-cross-functional-engagement-checklist.md](octoacme-cross-functional-engagement-checklist.md))
 
 ## Backlog Item Template
 - Title:
@@ -41,3 +42,4 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Cross-functional roles confirmed and engaged (see [octoacme-cross-functional-engagement-checklist.md](octoacme-cross-functional-engagement-checklist.md))
